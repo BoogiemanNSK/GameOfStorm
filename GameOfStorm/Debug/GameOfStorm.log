@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\пётр\documents\visual studio 2015\projects\gameofstorm\gameofstorm\source.cpp(407): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfStorm.vcxproj -> C:\Users\Пётр\documents\visual studio 2015\Projects\GameOfStorm\Debug\GameOfStorm.exe
+  GameOfStorm.vcxproj -> C:\Users\Пётр\documents\visual studio 2015\Projects\GameOfStorm\Debug\GameOfStorm.pdb (Partial PDB)
